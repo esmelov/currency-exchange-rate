@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CurrencyExchangeRates.Api</name>
+    </assembly>
+    <members>
+        <member name="P:CurrencyExchangeRates.Api.Features.GetAvailableCurrencyCodes.GetAvailableCurrencyCodes.Request.Skip">
+            <summary>
+            Number of currencies which should be skip
+            </summary>
+        </member>
+        <member name="P:CurrencyExchangeRates.Api.Features.GetAvailableCurrencyCodes.GetAvailableCurrencyCodes.Request.Take">
+            <summary>
+            Number of currencies which should be return
+            </summary>
+        </member>
+        <member name="P:CurrencyExchangeRates.Api.Features.GetCurrencyRate.GetCurrencyRate.Request.Code">
+            <summary>
+            Requested currency code.
+            </summary>
+        </member>
+    </members>
+</doc>
